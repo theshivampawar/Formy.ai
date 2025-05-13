@@ -1,13 +1,4 @@
-[Like & Subscribe To the Channel - https://tinyurl.com/subcribe-to-techwithEmma]
-
 # AI Form Builder (formy.ai)
-
-### ❤️ Support
-
-If you find this project helpful, please consider giving this repository a ⭐️ on GitHub, and don't forget to **like**, **share**, and **subscribe** to support our journey!  
-https://tinyurl.com/subcribe-to-techwithEmma
-
----
 
 ## 📌 Project Overview
 
@@ -111,9 +102,3 @@ Deploy your application
 This command will push your latest changes live.
 
 ---
-
-### 📺 Like & Subscribe
-
-[Like & Subscribe To the Channel - https://tinyurl.com/subcribe-to-techwithEmma]
-
-Thank you for being part of this journey, and happy coding! 😊
